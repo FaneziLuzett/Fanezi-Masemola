@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Fanezi Masemola</h1>
 <h3 align="center">I am an aspiring software developer, and Bsc in Plant Production Graduate(Horticulture)</h3>
 
-- 🔭 I’m currently working on **Objected oriented in java**
+- 🔭 I’m currently working on **Object Oriented Programing in java**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python**
 
